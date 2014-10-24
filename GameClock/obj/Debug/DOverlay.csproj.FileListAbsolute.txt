@@ -1,0 +1,46 @@
+C:\Users\Tomi\Documents\CODE\Direct3DHook-master\GameClock\bin\GameClock.exe.config
+C:\Users\Tomi\Documents\CODE\Direct3DHook-master\GameClock\GameClock\obj\Debug\GameClock.exe
+C:\Users\Tomi\Documents\CODE\Direct3DHook-master\GameClock\GameClock\obj\Debug\GameClock.pdb
+C:\Users\Tomi\Documents\CODE\Direct3DHook-master\GameClock\bin\sharpdx_direct3d11_effects_x64.dll
+C:\Users\Tomi\Documents\CODE\Direct3DHook-master\GameClock\bin\sharpdx_direct3d11_effects_x86.dll
+C:\Users\Tomi\Documents\CODE\Direct3DHook-master\GameClock\bin\GameClock.exe
+C:\Users\Tomi\Documents\CODE\Direct3DHook-master\GameClock\bin\GameClock.pdb
+C:\Users\Tomi\Documents\CODE\Direct3DHook-master\GameClock\GameClock\obj\Debug\DOverlay.csprojResolveAssemblyReference.cache
+C:\Users\Tomi\Documents\CODE\Direct3DHook-master\GameClock\GameClock\obj\Debug\GameClock.NotificationIcon.resources
+C:\Users\Tomi\Documents\CODE\Direct3DHook-master\GameClock\GameClock\obj\Debug\DOverlay.csproj.GenerateResource.Cache
+C:\Users\tomi.makinen\Documents\SharpDevelop Projects\Direct3DHook-master\GameClock\GameClock\obj\Debug\DOverlay.csprojResolveAssemblyReference.cache
+C:\Users\tomi.makinen\Documents\SharpDevelop Projects\Direct3DHook-master\GameClock\GameClock\obj\Debug\GameClock.NotificationIcon.resources
+C:\Users\tomi.makinen\Documents\SharpDevelop Projects\Direct3DHook-master\GameClock\GameClock\obj\Debug\DOverlay.csproj.GenerateResource.Cache
+C:\Users\tomi.makinen\Documents\SharpDevelop Projects\Direct3DHook-master\GameClock\bin\sharpdx_direct3d11_effects_x64.dll
+C:\Users\tomi.makinen\Documents\SharpDevelop Projects\Direct3DHook-master\GameClock\bin\sharpdx_direct3d11_effects_x86.dll
+C:\Users\tomi.makinen\Documents\SharpDevelop Projects\Direct3DHook-master\GameClock\bin\NotificationIcon.resx
+C:\Users\tomi.makinen\Documents\SharpDevelop Projects\Direct3DHook-master\GameClock\bin\DOverlay.exe.config
+C:\Users\tomi.makinen\Documents\SharpDevelop Projects\Direct3DHook-master\GameClock\bin\DOverlay.exe
+C:\Users\tomi.makinen\Documents\SharpDevelop Projects\Direct3DHook-master\GameClock\bin\DOverlay.pdb
+C:\Users\tomi.makinen\Documents\SharpDevelop Projects\Direct3DHook-master\GameClock\GameClock\obj\Debug\DOverlay.exe
+C:\Users\tomi.makinen\Documents\SharpDevelop Projects\Direct3DHook-master\GameClock\GameClock\obj\Debug\DOverlay.pdb
+C:\Users\tomi.makinen\Documents\SharpDevelop Projects\Direct3DHook-master\GameClock\bin\Doverico.png
+C:\Users\tomi.makinen\Documents\SharpDevelop Projects\Doverlay\Doverlay\bin\sharpdx_direct3d11_effects_x64.dll
+C:\Users\tomi.makinen\Documents\SharpDevelop Projects\Doverlay\Doverlay\bin\sharpdx_direct3d11_effects_x86.dll
+C:\Users\tomi.makinen\Documents\SharpDevelop Projects\Doverlay\Doverlay\bin\Doverico.png
+C:\Users\tomi.makinen\Documents\SharpDevelop Projects\Doverlay\Doverlay\bin\NotificationIcon.resx
+C:\Users\tomi.makinen\Documents\SharpDevelop Projects\Doverlay\Doverlay\bin\DOverlay.exe.config
+C:\Users\tomi.makinen\Documents\SharpDevelop Projects\Doverlay\Doverlay\bin\DOverlay.exe
+C:\Users\tomi.makinen\Documents\SharpDevelop Projects\Doverlay\Doverlay\bin\DOverlay.pdb
+C:\Users\tomi.makinen\Documents\SharpDevelop Projects\Doverlay\Doverlay\GameClock\obj\Debug\DOverlay.csprojResolveAssemblyReference.cache
+C:\Users\tomi.makinen\Documents\SharpDevelop Projects\Doverlay\Doverlay\GameClock\obj\Debug\GameClock.NotificationIcon.resources
+C:\Users\tomi.makinen\Documents\SharpDevelop Projects\Doverlay\Doverlay\GameClock\obj\Debug\DOverlay.csproj.GenerateResource.Cache
+C:\Users\tomi.makinen\Documents\SharpDevelop Projects\Doverlay\Doverlay\GameClock\obj\Debug\DOverlay.exe
+C:\Users\tomi.makinen\Documents\SharpDevelop Projects\Doverlay\Doverlay\GameClock\obj\Debug\DOverlay.pdb
+C:\Users\Tomi\Documents\CODE\Doverlay\Doverlay\bin\DOverlay.exe.config
+C:\Users\Tomi\Documents\CODE\Doverlay\Doverlay\GameClock\obj\Debug\DOverlay.exe
+C:\Users\Tomi\Documents\CODE\Doverlay\Doverlay\GameClock\obj\Debug\DOverlay.pdb
+C:\Users\Tomi\Documents\CODE\Doverlay\Doverlay\GameClock\obj\Debug\DOverlay.csprojResolveAssemblyReference.cache
+C:\Users\Tomi\Documents\CODE\Doverlay\Doverlay\GameClock\obj\Debug\GameClock.NotificationIcon.resources
+C:\Users\Tomi\Documents\CODE\Doverlay\Doverlay\GameClock\obj\Debug\DOverlay.csproj.GenerateResource.Cache
+C:\Users\Tomi\Documents\CODE\Doverlay\Doverlay\bin\sharpdx_direct3d11_effects_x64.dll
+C:\Users\Tomi\Documents\CODE\Doverlay\Doverlay\bin\sharpdx_direct3d11_effects_x86.dll
+C:\Users\Tomi\Documents\CODE\Doverlay\Doverlay\bin\Doverico.png
+C:\Users\Tomi\Documents\CODE\Doverlay\Doverlay\bin\NotificationIcon.resx
+C:\Users\Tomi\Documents\CODE\Doverlay\Doverlay\bin\DOverlay.exe
+C:\Users\Tomi\Documents\CODE\Doverlay\Doverlay\bin\DOverlay.pdb
